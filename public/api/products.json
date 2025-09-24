@@ -1,0 +1,425 @@
+{
+  "products": [
+    {
+      "id": 101,
+      "name": "Apple iPhone 14 Pro",
+      "brand": "Apple",
+      "category": "mobiles",
+      "price": 1199,
+      "discountPrice": 999,
+      "description": "A16 Bionic performance with ProMotion and a 48MP main camera.",
+      "colors": [
+        "#000000",
+        "#c0c0c0",
+        "#8b7355",
+        "#e5e4e2"
+      ],
+      "options": [
+        "128GB",
+        "256GB",
+        "512GB"
+      ],
+      "image": "https://m.media-amazon.com/images/I/61l9ppRIiqL._AC_SL1500_.jpg",
+      "imageSources": [
+        "https://m.media-amazon.com/images/I/61l9ppRIiqL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71pC69I3lzL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71xwZKQpzPL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71n4bK4Zc2L._AC_SL1500_.jpg"
+      ],
+      "gallery": [],
+      "specs": {
+        "screen": "6.1\"",
+        "resolution": "2556×1179",
+        "refresh": "120 Hz",
+        "ppi": "460 ppi",
+        "screenType": "OLED",
+        "additional": [
+          "Dynamic Island",
+          "Always-On display",
+          "HDR display",
+          "True Tone",
+          "Wide color (P3)"
+        ],
+        "cpu": "A16 Bionic",
+        "cores": "6",
+        "ram": "6 GB",
+        "storage": "128/256/512 GB",
+        "gpu": "Apple GPU (5-core)",
+        "os": "iOS",
+        "camera": "48MP + 12MP + 12MP",
+        "frontCamera": "12 MP",
+        "video": "4K@60fps",
+        "stabilization": "Sensor-shift OIS",
+        "battery": "3200 mAh",
+        "weight": "206 g"
+      }
+    },
+    {
+      "id": 102,
+      "name": "Samsung Galaxy S23 Ultra",
+      "brand": "Samsung",
+      "category": "mobiles",
+      "price": 1199,
+      "discountPrice": 1099,
+      "description": "Flagship phone with 200MP camera and S Pen support.",
+      "colors": [
+        "#1c1c1c",
+        "#e5e7eb",
+        "#6b7280"
+      ],
+      "options": [
+        "256GB",
+        "512GB"
+      ],
+      "image": "https://m.media-amazon.com/images/I/71Sa3dqTqzL._AC_SL1500_.jpg",
+      "imageSources": [
+        "https://m.media-amazon.com/images/I/71Sa3dqTqzL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71K7Q4ZqZTL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71l7bqJ-3yL._AC_SL1500_.jpg"
+      ],
+      "gallery": [],
+      "specs": {
+        "screen": "6.8\"",
+        "resolution": "3088×1440",
+        "refresh": "120 Hz",
+        "ppi": "500 ppi",
+        "screenType": "Dynamic AMOLED 2X",
+        "additional": [
+          "HDR10+",
+          "Gorilla Glass Victus 2"
+        ],
+        "cpu": "Snapdragon 8 Gen 2",
+        "cores": "8",
+        "ram": "8/12 GB",
+        "storage": "256/512 GB",
+        "gpu": "Adreno 740",
+        "os": "Android 13",
+        "camera": "200MP + 10MP + 12MP + 10MP",
+        "frontCamera": "12 MP",
+        "video": "8K@30fps",
+        "stabilization": "OIS + EIS",
+        "battery": "5000 mAh",
+        "weight": "234 g"
+      }
+    },
+    {
+      "id": 103,
+      "name": "Apple Watch SE (2nd Gen) 44mm",
+      "brand": "Apple",
+      "category": "smartwatch",
+      "price": 249,
+      "discountPrice": null,
+      "description": "Essential features to keep you connected, active, and healthy.",
+      "colors": [
+        "#000000",
+        "#f5f5f5",
+        "#a78b6a"
+      ],
+      "options": [
+        "GPS",
+        "GPS + Cellular"
+      ],
+      "image": "https://m.media-amazon.com/images/I/71X6mnUDSzL._AC_SL1500_.jpg",
+      "imageSources": [
+        "https://m.media-amazon.com/images/I/71X6mnUDSzL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71x0jZ1l6vL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71m5H1b0uXL._AC_SL1500_.jpg"
+      ],
+      "gallery": [],
+      "specs": {
+        "screen": "1.78\"",
+        "resolution": "448×368",
+        "refresh": "60 Hz",
+        "ppi": "326 ppi",
+        "screenType": "OLED",
+        "additional": [
+          "Crash Detection",
+          "Emergency SOS",
+          "Water resistant 50m"
+        ],
+        "cpu": "S8 SiP",
+        "cores": "2",
+        "ram": "1 GB",
+        "storage": "32 GB",
+        "gpu": "Apple GPU",
+        "os": "watchOS",
+        "sensor": "Optical heart sensor",
+        "battery": "Up to 18 hours",
+        "weight": "33 g"
+      }
+    },
+    {
+      "id": 104,
+      "name": "Sony WH-1000XM5",
+      "brand": "Sony",
+      "category": "headphones",
+      "price": 399,
+      "discountPrice": 349,
+      "description": "Industry-leading noise canceling with long battery life.",
+      "colors": [
+        "#000000",
+        "#d4d4d4"
+      ],
+      "options": [
+        "Standard"
+      ],
+      "image": "https://m.media-amazon.com/images/I/61vJtKbAssL._AC_SL1500_.jpg",
+      "imageSources": [
+        "https://m.media-amazon.com/images/I/61vJtKbAssL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61pOe2bR6UL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61c7m7xM0jL._AC_SL1500_.jpg"
+      ],
+      "gallery": [],
+      "specs": {
+        "drivers": "30 mm",
+        "codecs": "LDAC, AAC, SBC",
+        "battery": "30 hours",
+        "weight": "250 g"
+      }
+    },
+    {
+      "id": 105,
+      "name": "Canon EOS R6 Mark II",
+      "brand": "Canon",
+      "category": "cameras",
+      "price": 2499,
+      "discountPrice": 2299,
+      "description": "24.2MP full-frame mirrorless with 4K60 video and advanced AF.",
+      "colors": [
+        "#1f2937"
+      ],
+      "options": [
+        "Body Only",
+        "RF 24-105mm Kit"
+      ],
+      "image": "https://m.media-amazon.com/images/I/81c1kL3c+3L._AC_SL1500_.jpg",
+      "imageSources": [
+        "https://m.media-amazon.com/images/I/81c1kL3c+3L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81cXoPqNnJL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81sM9I3moyL._AC_SL1500_.jpg"
+      ],
+      "gallery": [],
+      "specs": {
+        "sensor": "24.2MP Full-Frame CMOS",
+        "video": "4K60",
+        "stabilization": "IBIS 8-stops",
+        "weight": "588 g"
+      }
+    },
+    {
+      "id": 106,
+      "name": "DJI Mini 3 Pro",
+      "brand": "DJI",
+      "category": "cameras",
+      "price": 759,
+      "discountPrice": 699,
+      "description": "Lightweight camera drone with 4K/60fps video and tri-directional obstacle sensing.",
+      "colors": [
+        "#e5e7eb"
+      ],
+      "options": [
+        "Drone Only",
+        "Fly More Kit"
+      ],
+      "image": "https://m.media-amazon.com/images/I/61h3-8iZx5L._AC_SL1500_.jpg",
+      "imageSources": [
+        "https://m.media-amazon.com/images/I/61h3-8iZx5L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61cQsgn0f-L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61Qe3mT3C1L._AC_SL1500_.jpg"
+      ],
+      "gallery": [],
+      "specs": {
+        "camera": "48 MP",
+        "video": "4K@60fps",
+        "battery": "34 min (standard)",
+        "weight": "249 g"
+      }
+    },
+    {
+      "id": 107,
+      "name": "Apple MacBook Pro 14\" (M2 Pro)",
+      "brand": "Apple",
+      "category": "computers",
+      "price": 1999,
+      "discountPrice": 1799,
+      "description": "Liquid Retina XDR display and M2 Pro performance.",
+      "colors": [
+        "#1f2937",
+        "#9ca3af"
+      ],
+      "options": [
+        "16GB/512GB",
+        "32GB/1TB"
+      ],
+      "image": "https://m.media-amazon.com/images/I/61lYIKPieDL._AC_SL1500_.jpg",
+      "imageSources": [
+        "https://m.media-amazon.com/images/I/61lYIKPieDL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61E3rj6lGPL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61i3oF1N9XL._AC_SL1500_.jpg"
+      ],
+      "gallery": [],
+      "specs": {
+        "screen": "14.2\" 3024×1964 120Hz",
+        "cpu": "Apple M2 Pro",
+        "ram": "16/32 GB",
+        "storage": "512GB / 1TB",
+        "gpu": "16–19‑core",
+        "battery": "Up to 18 hours",
+        "weight": "1.6 kg"
+      }
+    },
+    {
+      "id": 108,
+      "name": "ASUS ROG Strix G16 Gaming Laptop",
+      "brand": "ASUS",
+      "category": "gaming",
+      "price": 1499,
+      "discountPrice": 1399,
+      "description": "16\" 165Hz display, Intel Core i7, and GeForce RTX 4070.",
+      "colors": [
+        "#111827"
+      ],
+      "options": [
+        "16GB/1TB"
+      ],
+      "image": "https://m.media-amazon.com/images/I/71tKQf1qT1L._AC_SL1500_.jpg",
+      "imageSources": [
+        "https://m.media-amazon.com/images/I/71tKQf1qT1L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71M8jYwq1ML._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71nq0q6I1aL._AC_SL1500_.jpg"
+      ],
+      "gallery": [],
+      "specs": {
+        "screen": "16\" 2560×1600 165Hz",
+        "cpu": "Intel Core i7-13650HX",
+        "ram": "16 GB",
+        "storage": "1 TB SSD",
+        "gpu": "NVIDIA GeForce RTX 4070",
+        "battery": "90Wh",
+        "weight": "2.5 kg"
+      }
+    },
+    {
+      "id": 109,
+      "name": "Nintendo Switch OLED Model",
+      "brand": "Nintendo",
+      "category": "gaming",
+      "price": 349,
+      "discountPrice": 329,
+      "description": "7-inch OLED screen with enhanced audio and dock with wired LAN.",
+      "colors": [
+        "#ffffff",
+        "#000000"
+      ],
+      "options": [
+        "White",
+        "Neon Red/Blue"
+      ],
+      "image": "https://m.media-amazon.com/images/I/61-PblYntsL._AC_SL1500_.jpg",
+      "imageSources": [
+        "https://m.media-amazon.com/images/I/61-PblYntsL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71tRu7w4qYL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61zK2YVxYcL._AC_SL1500_.jpg"
+      ],
+      "gallery": [],
+      "specs": {
+        "screen": "7\" OLED",
+        "storage": "64 GB",
+        "battery": "4.5–9 hours",
+        "weight": "420 g"
+      }
+    },
+    {
+      "id": 110,
+      "name": "Bose QuietComfort Ultra Earbuds",
+      "brand": "Bose",
+      "category": "headphones",
+      "price": 299,
+      "discountPrice": 279,
+      "description": "Spatial audio and world-class noise cancelling true wireless earbuds.",
+      "colors": [
+        "#000000",
+        "#d1d5db"
+      ],
+      "options": [
+        "Standard"
+      ],
+      "image": "https://m.media-amazon.com/images/I/61f7m3v9u5L._AC_SL1500_.jpg",
+      "imageSources": [
+        "https://m.media-amazon.com/images/I/61f7m3v9u5L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61f7Xg1jC+L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71M8jYwq1ML._AC_SL1500_.jpg"
+      ],
+      "gallery": [],
+      "specs": {
+        "drivers": "High-efficiency",
+        "codecs": "AAC, SBC",
+        "battery": "Up to 24 hours with case",
+        "weight": "6.2 g (each)"
+      }
+    },
+    {
+      "id": 111,
+      "name": "GoPro HERO12 Black",
+      "brand": "GoPro",
+      "category": "cameras",
+      "price": 399,
+      "discountPrice": 379,
+      "description": "Advanced stabilization and 5.3K60 video in a rugged design.",
+      "colors": [
+        "#111827"
+      ],
+      "options": [
+        "Camera Only",
+        "Adventure Kit"
+      ],
+      "image": "https://m.media-amazon.com/images/I/71c5M9t3uNL._AC_SL1500_.jpg",
+      "imageSources": [
+        "https://m.media-amazon.com/images/I/71c5M9t3uNL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71x1xkq0-sL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71nq0q6I1aL._AC_SL1500_.jpg"
+      ],
+      "gallery": [],
+      "specs": {
+        "video": "5.3K@60fps",
+        "stabilization": "HyperSmooth",
+        "battery": "Enduro battery",
+        "weight": "154 g"
+      }
+    },
+    {
+      "id": 112,
+      "name": "Apple iPad Pro 12.9\" (M2)",
+      "brand": "Apple",
+      "category": "computers",
+      "price": 1099,
+      "discountPrice": 999,
+      "description": "Liquid Retina XDR display powered by M2 chip.",
+      "colors": [
+        "#1f2937",
+        "#9ca3af"
+      ],
+      "options": [
+        "128GB",
+        "256GB",
+        "512GB"
+      ],
+      "image": "https://m.media-amazon.com/images/I/81jqUPkIV-L._AC_SL1500_.jpg",
+      "imageSources": [
+        "https://m.media-amazon.com/images/I/81jqUPkIV-L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71tKQf1qT1L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71M8jYwq1ML._AC_SL1500_.jpg"
+      ],
+      "gallery": [],
+      "specs": {
+        "screen": "12.9\" Mini‑LED 120Hz",
+        "cpu": "Apple M2",
+        "ram": "8/16 GB",
+        "storage": "128–512 GB",
+        "gpu": "10‑core",
+        "battery": "Up to 10 hours",
+        "weight": "682 g"
+      }
+    }
+  ]
+}
